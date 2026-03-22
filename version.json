@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "installer_url": "https://raw.githubusercontent.com/BLCustom/pricetrax-updates/main/PriceTrax3D_Setup_v1_0.exe",
+  "notes": [
+    "Initial release of PriceTrax 3D",
+    "Professional pricing calculator for 3D printing",
+    "Supports FDM and Resin workflows",
+    "Includes tier-based pricing system",
+    "Built-in export and reporting tools"
+  ]
+}
